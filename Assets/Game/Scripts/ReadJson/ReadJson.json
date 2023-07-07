@@ -1,0 +1,36 @@
+{
+  "BotConfig": [
+    {
+      "bingo0": "0",
+      "bingo1": "3",
+      "bingo2": "5",
+      "bingo3": "10",
+      "bingo4": "15",
+      "bingo5": "20"
+    },
+    {
+      "bingo0": "0",
+      "bingo1": "3",
+      "bingo2": "5",
+      "bingo3": "10",
+      "bingo4": "20",
+      "bingo5": "40"
+    },
+    {
+      "bingo0": "0",
+      "bingo1": "10",
+      "bingo2": "20",
+      "bingo3": "40",
+      "bingo4": "60",
+      "bingo5": "190"
+    },
+    {
+      "bingo0": "0",
+      "bingo1": "5",
+      "bingo2": "10",
+      "bingo3": "15",
+      "bingo4": "20",
+      "bingo5": "100"
+    }
+  ]
+}
